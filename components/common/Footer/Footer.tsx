@@ -100,7 +100,7 @@ const Footer: FC<Props> = ({ className, pages }) => {
             <span>&copy; 2020 Kumar Aditya, Inc. All rights reserved.</span>
           </div>
           <div className="flex items-center text-primary">
-            <span className="text-primary">Crafted by</span>
+            <span className="text-primary"></span>
             {/* <a
               rel="noopener"
               href="https://vercel.com"
